@@ -1,0 +1,70 @@
+h1{
+     color:black;
+       font-family: cursive;
+       font-size: 20px;
+       font-weight: bold;
+       text-align: center;
+       background-color:black;
+}
+header{
+    text-align: center;
+   
+}
+h2{
+    color:black;
+     font-family: cursive;
+     font-size: 20px;
+     text-decoration: overline ;
+     
+ }
+h3 {
+     color: black;
+     font-family: cursive;
+     text-align: left;
+     text-decoration: overline;
+     
+}
+img{
+width: 570px;
+}
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: overline;
+    text-decoration: double;
+    font-weight: 200;
+    text-align: right;
+}
+h6 { 
+     width: 200px;
+     font-size: 14px;
+     text-align: left;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+
+input {
+    border-radius: 7px;
+}
+
+button{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: black;
+    border: blanchedalmond;
+    width: 200px;
+    padding: 10px;
+    border-color: green 20px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .4s ease all;
+    
+    }
+
+button:hover{
+    background-color:rgb(233,250,0,0.9);
+    color: black;
+}
+body{
+    background-color: rgb(233, 250, 0,0.23);
+}
